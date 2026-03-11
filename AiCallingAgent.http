@@ -1,0 +1,6 @@
+@AiCallingAgent_HostAddress = http://localhost:5207
+
+GET {{AiCallingAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
